@@ -1,7 +1,8 @@
 # StudentRecordManageUI
 --------------------------------------------------------------
+# UI User Interface 
 # In This Management System Have 
-# Manage Student Data Using CRUD Operation For Using ASP.NET Core API 
+# Manage Student Data Using CRUD Operation For Using ASP.NET Core UI  
 # Extra Additional Work Is 
 # Create 
 # Read 
